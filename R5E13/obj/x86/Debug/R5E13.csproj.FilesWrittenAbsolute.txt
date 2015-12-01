@@ -1,0 +1,10 @@
+/Users/Joselu/Projects/R5E13/R5E13/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Joselu/Projects/R5E13/R5E13/bin/Debug/R5E13.exe.mdb
+/Users/Joselu/Projects/R5E13/R5E13/bin/Debug/R5E13.exe
+/Users/Joselu/Projects/R5E13/R5E13/obj/x86/Debug/R5E13.exe
+/Users/Joselu/Projects/R5E13/R5E13/obj/x86/Debug/R5E13.exe.mdb
+/Volumes/SEAGATE HDD/Instituto/Programación/Tema 5/R5E13/R5E13/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/SEAGATE HDD/Instituto/Programación/Tema 5/R5E13/R5E13/bin/Debug/R5E13.exe.mdb
+/Volumes/SEAGATE HDD/Instituto/Programación/Tema 5/R5E13/R5E13/bin/Debug/R5E13.exe
+/Volumes/SEAGATE HDD/Instituto/Programación/Tema 5/R5E13/R5E13/obj/x86/Debug/R5E13.exe
+/Volumes/SEAGATE HDD/Instituto/Programación/Tema 5/R5E13/R5E13/obj/x86/Debug/R5E13.exe.mdb

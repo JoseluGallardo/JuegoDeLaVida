@@ -1,0 +1,10 @@
+F:\Instituto\Programación\Tema 5\R5E13\R5E13\obj\x86\Debug\R5E13.exe
+F:\Instituto\Programación\Tema 5\R5E13\R5E13\bin\Debug\R5E13.exe
+F:\Instituto\Programación\Tema 5\R5E13\R5E13\bin\Debug\R5E13.pdb
+F:\Instituto\Programación\Tema 5\R5E13\R5E13\obj\x86\Debug\R5E13.csprojResolveAssemblyReference.cache
+F:\Instituto\Programación\Tema 5\R5E13\R5E13\obj\x86\Debug\R5E13.pdb
+E:\Instituto\Programación\Tema 5\R5E13\R5E13\bin\Debug\R5E13.exe
+E:\Instituto\Programación\Tema 5\R5E13\R5E13\bin\Debug\R5E13.pdb
+E:\Instituto\Programación\Tema 5\R5E13\R5E13\obj\x86\Debug\R5E13.csprojResolveAssemblyReference.cache
+E:\Instituto\Programación\Tema 5\R5E13\R5E13\obj\x86\Debug\R5E13.exe
+E:\Instituto\Programación\Tema 5\R5E13\R5E13\obj\x86\Debug\R5E13.pdb
